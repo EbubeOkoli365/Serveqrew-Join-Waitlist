@@ -1,0 +1,11 @@
+# IDE
+.vscode/
+.idea/
+
+# Builds
+dist/
+build/
+*.log
+
+# Supabase local
+.supabase/
