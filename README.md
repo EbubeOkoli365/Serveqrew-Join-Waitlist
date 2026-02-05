@@ -9,6 +9,7 @@ Personalized referral dashboard.
 Scalable system design.
 
 **JOIN-WAITLIST FILE - handles the main signup logic.**
+
 IMPORTS - Imports necessary files for usage.
 CONSTANTS - declares all constants in the code including URLs, rate limiting windows, length fields, error codes, CORS headers... for future reusability.
 ENVIRONMENT VARIABLES - Environment variables for security.
